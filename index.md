@@ -1,6 +1,18 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/AndyPorter/portfolio.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- [View housing development](/view-housing-development/index.md) 
+
+## Status
+July 2019
+Contains only the latest service I've been a designer on.
+
+### Todo?
+
+- add previous services.
+- add some contextual information about the background to the design, the users and their needs, the problem trying to solve, etc.
+- add some useful lessons learnt or problems faced, things not achieved - as a reminder.
+- consider making a seperate repo as a CV, and perhaps some contextual information should go there instead.
+- create my own jekyll theme for this repo
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -28,10 +40,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndyPorter/portfolio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
